@@ -1,0 +1,301 @@
+Admission ID,Patient ID,Department,Admit Date & Time,Discharge Date & Time,Patient Type,Outcome
+1,6,Emergency,20/01/2025 17:00,27/01/2025 17:00,Scheduled,Deceased
+2,189,Orthopedics,29/01/2025 06:00,30/01/2025 06:00,Scheduled,Transferred
+3,110,Cardiology,04/01/2025 10:00,06/01/2025 10:00,Scheduled,Transferred
+4,197,Cardiology,11/02/2025 17:00,16/02/2025 17:00,Scheduled,Deceased
+5,27,Orthopedics,30/01/2025 23:00,09/02/2025 23:00,Scheduled,Recovered
+6,127,General Medicine,02/03/2025 12:00,07/03/2025 12:00,Scheduled,Deceased
+7,35,Cardiology,16/02/2025 13:00,19/02/2025 13:00,Scheduled,Transferred
+8,97,General Medicine,08/01/2025 16:00,16/01/2025 16:00,Emergency,Transferred
+9,84,Oncology,11/01/2025 20:00,16/01/2025 20:00,Emergency,Transferred
+10,17,Cardiology,20/02/2025 03:00,26/02/2025 03:00,Emergency,Transferred
+11,36,Cardiology,15/02/2025 20:00,18/02/2025 20:00,Emergency,Improved
+12,68,Pediatrics,15/02/2025 10:00,25/02/2025 10:00,Scheduled,Improved
+13,18,Orthopedics,11/02/2025 21:00,17/02/2025 21:00,Scheduled,Transferred
+14,156,Emergency,31/01/2025 08:00,05/02/2025 8:00,Scheduled,Deceased
+15,145,Cardiology,12/01/2025 15:00,17/01/2025 15:00,Scheduled,Deceased
+16,75,Pediatrics,02/01/2025 6:00,09/01/2025 6:00,Emergency,Improved
+17,5,Cardiology,08/02/2025 8:00,11/02/2025 8:00,Emergency,Transferred
+18,41,General Medicine,17/01/2025 12:00,19/01/2025 12:00,Scheduled,Improved
+19,145,General Medicine,10/01/2025 15:00,19/01/2025 15:00,Scheduled,Recovered
+20,50,General Medicine,12/01/2025 19:00,21/01/2025 19:00,Scheduled,Recovered
+21,21,Pediatrics,18/02/2025 05:00,24/02/2025 05:00,Scheduled,Recovered
+22,93,Oncology,12/01/2025 5:00,20/01/2025 05:00,Emergency,Deceased
+23,196,Cardiology,03/01/2025 15:00,08/01/2025 15:00,Emergency,Transferred
+24,156,Orthopedics,26/01/2025 17:00,28/01/2025 17:00,Scheduled,Recovered
+25,100,Oncology,23/02/2025 12:00,03/03/2025 12:00,Emergency,Deceased
+26,74,Cardiology,07/01/2025 17:00,15/01/2025 17:00,Scheduled,Recovered
+27,10,Cardiology,09/01/2025 13:00,10/01/2025 13:00,Emergency,Transferred
+28,26,Orthopedics,05/01/2025 13:00,07/01/2025 13:00,Emergency,Recovered
+29,16,General Medicine,03/01/2025 3:00,06/01/2025 3:00,Scheduled,Transferred
+30,164,Pediatrics,13/01/2025 21:00,18/01/2025 21:00,Scheduled,Deceased
+31,124,General Medicine,25/01/2025 16:00,03/02/2025 16:00,Emergency,Recovered
+32,51,Orthopedics,27/01/2025 14:00,03/02/2025 14:00,Emergency,Recovered
+33,68,General Medicine,27/01/2025 13:00,01/02/2025 13:00,Scheduled,Transferred
+34,89,Emergency,06/02/2025 14:00,09/02/2025 14:00,Emergency,Improved
+35,35,Cardiology,23/01/2025 17:00,25/01/2025 17:00,Scheduled,Recovered
+36,74,Oncology,15/01/2025 22:00,22/01/2025 22:00,Scheduled,Recovered
+37,118,Emergency,29/01/2025 04:00,31/01/2025 04:00,Scheduled,Recovered
+38,4,Pediatrics,23/01/2025 16:00,02/02/2025 16:00,Emergency,Improved
+39,9,Emergency,23/02/2025 07:00,01/03/2025 7:00,Scheduled,Improved
+40,68,Oncology,26/01/2025 23:00,27/01/2025 23:00,Scheduled,Deceased
+41,13,Emergency,09/01/2025 11:00,12/01/2025 11:00,Scheduled,Recovered
+42,154,Orthopedics,11/01/2025 21:00,16/01/2025 21:00,Scheduled,Transferred
+43,61,Oncology,21/02/2025 16:00,02/03/2025 16:00,Scheduled,Improved
+44,178,Orthopedics,24/02/2025 05:00,01/03/2025 5:00,Emergency,Transferred
+45,85,Emergency,16/02/2025 21:00,23/02/2025 21:00,Emergency,Recovered
+46,133,Oncology,01/02/2025 13:00,03/02/2025 13:00,Emergency,Recovered
+47,161,Orthopedics,25/01/2025 01:00,31/01/2025 01:00,Emergency,Recovered
+48,73,Oncology,08/01/2025 13:00,18/01/2025 13:00,Emergency,Transferred
+49,115,Pediatrics,27/02/2025 11:00,09/03/2025 11:00,Scheduled,Deceased
+50,107,Cardiology,24/01/2025 13:00,01/02/2025 13:00,Scheduled,Deceased
+51,84,Cardiology,12/01/2025 14:00,17/01/2025 14:00,Emergency,Recovered
+52,165,Cardiology,21/02/2025 05:00,22/02/2025 05:00,Emergency,Recovered
+53,109,Emergency,04/02/2025 12:00,14/02/2025 12:00,Emergency,Transferred
+54,24,Pediatrics,06/01/2025 11:00,07/01/2025 11:00,Scheduled,Deceased
+55,47,Oncology,18/01/2025 04:00,26/01/2025 04:00,Scheduled,Deceased
+56,23,Cardiology,04/01/2025 15:00,08/01/2025 15:00,Scheduled,Deceased
+57,195,Emergency,12/01/2025 8:00,20/01/2025 08:00,Scheduled,Recovered
+58,36,Emergency,18/02/2025 05:00,23/02/2025 05:00,Scheduled,Improved
+59,172,Orthopedics,25/02/2025 23:00,07/03/2025 23:00,Emergency,Improved
+60,92,Cardiology,23/01/2025 19:00,28/01/2025 19:00,Scheduled,Transferred
+61,160,Cardiology,28/01/2025 23:00,05/02/2025 23:00,Emergency,Transferred
+62,122,Pediatrics,24/01/2025 22:00,25/01/2025 22:00,Scheduled,Deceased
+63,107,Oncology,06/01/2025 17:00,15/01/2025 17:00,Emergency,Deceased
+64,127,Oncology,24/01/2025 22:00,31/01/2025 22:00,Emergency,Deceased
+65,48,Orthopedics,10/02/2025 9:00,16/02/2025 09:00,Emergency,Transferred
+66,111,Orthopedics,23/02/2025 04:00,28/02/2025 04:00,Scheduled,Improved
+67,183,Oncology,08/01/2025 2:00,13/01/2025 02:00,Scheduled,Deceased
+68,49,Cardiology,21/02/2025 21:00,22/02/2025 21:00,Emergency,Recovered
+69,33,General Medicine,27/02/2025 08:00,02/03/2025 8:00,Emergency,Recovered
+70,159,Oncology,09/02/2025 4:00,17/02/2025 04:00,Scheduled,Recovered
+71,80,Cardiology,29/01/2025 06:00,03/02/2025 6:00,Scheduled,Improved
+72,50,General Medicine,21/02/2025 07:00,28/02/2025 07:00,Scheduled,Transferred
+73,152,Emergency,01/03/2025 2:00,06/03/2025 2:00,Emergency,Transferred
+74,96,Orthopedics,24/02/2025 08:00,03/03/2025 8:00,Emergency,Recovered
+75,157,Emergency,08/01/2025 18:00,11/01/2025 18:00,Emergency,Recovered
+76,150,Pediatrics,05/01/2025 2:00,08/01/2025 2:00,Scheduled,Improved
+77,38,General Medicine,15/01/2025 23:00,19/01/2025 23:00,Scheduled,Deceased
+78,48,Cardiology,24/02/2025 18:00,05/03/2025 18:00,Scheduled,Deceased
+79,169,Emergency,28/01/2025 16:00,02/02/2025 16:00,Emergency,Transferred
+80,140,General Medicine,26/01/2025 00:00,03/02/2025 0:00,Emergency,Improved
+81,131,Orthopedics,25/02/2025 01:00,28/02/2025 01:00,Emergency,Recovered
+82,169,Cardiology,19/01/2025 12:00,29/01/2025 12:00,Emergency,Deceased
+83,144,General Medicine,10/02/2025 12:00,12/02/2025 12:00,Emergency,Deceased
+84,16,Emergency,11/02/2025 23:00,14/02/2025 23:00,Emergency,Transferred
+85,83,Oncology,08/01/2025 23:00,11/01/2025 23:00,Scheduled,Transferred
+86,161,Cardiology,07/01/2025 10:00,13/01/2025 10:00,Scheduled,Deceased
+87,57,Orthopedics,19/02/2025 17:00,01/03/2025 17:00,Scheduled,Deceased
+88,34,Oncology,08/02/2025 9:00,14/02/2025 09:00,Scheduled,Deceased
+89,168,Cardiology,09/01/2025 14:00,15/01/2025 14:00,Scheduled,Deceased
+90,47,Oncology,24/02/2025 08:00,05/03/2025 8:00,Emergency,Deceased
+91,139,Emergency,21/02/2025 08:00,01/03/2025 8:00,Scheduled,Deceased
+92,78,Pediatrics,22/02/2025 09:00,25/02/2025 09:00,Scheduled,Improved
+93,11,Emergency,08/01/2025 5:00,12/01/2025 5:00,Emergency,Recovered
+94,50,Emergency,22/01/2025 02:00,23/01/2025 02:00,Scheduled,Transferred
+95,66,Orthopedics,15/01/2025 23:00,17/01/2025 23:00,Emergency,Deceased
+96,107,Orthopedics,07/01/2025 15:00,10/01/2025 15:00,Scheduled,Improved
+97,25,Cardiology,21/01/2025 20:00,26/01/2025 20:00,Emergency,Deceased
+98,92,Cardiology,04/01/2025 12:00,13/01/2025 12:00,Emergency,Recovered
+99,138,Orthopedics,28/02/2025 21:00,01/03/2025 21:00,Emergency,Transferred
+100,128,Orthopedics,30/01/2025 12:00,07/02/2025 12:00,Scheduled,Improved
+101,158,Cardiology,04/02/2025 3:00,09/02/2025 3:00,Emergency,Deceased
+102,43,Pediatrics,06/02/2025 1:00,15/02/2025 01:00,Scheduled,Recovered
+103,74,Cardiology,06/01/2025 18:00,16/01/2025 18:00,Scheduled,Improved
+104,142,Pediatrics,29/01/2025 19:00,03/02/2025 19:00,Emergency,Recovered
+105,190,Pediatrics,29/01/2025 19:00,07/02/2025 19:00,Scheduled,Improved
+106,51,General Medicine,07/02/2025 7:00,16/02/2025 07:00,Emergency,Recovered
+107,91,Pediatrics,15/01/2025 09:00,19/01/2025 09:00,Emergency,Recovered
+108,28,General Medicine,25/01/2025 14:00,27/01/2025 14:00,Scheduled,Improved
+109,40,Oncology,26/01/2025 15:00,28/01/2025 15:00,Scheduled,Improved
+110,66,Cardiology,14/01/2025 17:00,21/01/2025 17:00,Scheduled,Improved
+111,59,General Medicine,20/01/2025 10:00,26/01/2025 10:00,Scheduled,Transferred
+112,73,Cardiology,17/02/2025 03:00,21/02/2025 03:00,Scheduled,Transferred
+113,110,General Medicine,15/02/2025 07:00,24/02/2025 07:00,Emergency,Transferred
+114,38,Oncology,22/01/2025 12:00,01/02/2025 12:00,Emergency,Deceased
+115,116,Emergency,18/02/2025 04:00,25/02/2025 04:00,Scheduled,Improved
+116,107,Oncology,31/01/2025 19:00,07/02/2025 19:00,Emergency,Improved
+117,156,Pediatrics,23/02/2025 05:00,25/02/2025 05:00,Emergency,Improved
+118,127,Oncology,23/01/2025 09:00,01/02/2025 9:00,Scheduled,Improved
+119,16,Emergency,17/02/2025 15:00,26/02/2025 15:00,Emergency,Deceased
+120,148,Pediatrics,19/01/2025 10:00,24/01/2025 10:00,Scheduled,Transferred
+121,89,Pediatrics,12/01/2025 6:00,20/01/2025 06:00,Scheduled,Recovered
+122,116,Oncology,25/01/2025 02:00,28/01/2025 02:00,Emergency,Improved
+123,18,Orthopedics,28/02/2025 02:00,03/03/2025 2:00,Emergency,Transferred
+124,69,Pediatrics,30/01/2025 00:00,01/02/2025 0:00,Emergency,Improved
+125,57,Orthopedics,11/02/2025 18:00,14/02/2025 18:00,Emergency,Transferred
+126,136,Oncology,31/01/2025 19:00,04/02/2025 19:00,Emergency,Transferred
+127,79,Orthopedics,11/01/2025 15:00,13/01/2025 15:00,Emergency,Deceased
+128,64,Orthopedics,03/01/2025 4:00,10/01/2025 4:00,Emergency,Improved
+129,23,Orthopedics,25/01/2025 06:00,03/02/2025 6:00,Emergency,Improved
+130,70,Cardiology,13/01/2025 16:00,16/01/2025 16:00,Scheduled,Recovered
+131,21,Emergency,12/01/2025 15:00,16/01/2025 15:00,Emergency,Deceased
+132,21,Cardiology,24/02/2025 01:00,25/02/2025 01:00,Scheduled,Transferred
+133,192,General Medicine,16/02/2025 20:00,23/02/2025 20:00,Scheduled,Improved
+134,32,General Medicine,02/02/2025 18:00,12/02/2025 18:00,Emergency,Improved
+135,174,General Medicine,13/02/2025 04:00,18/02/2025 04:00,Emergency,Recovered
+136,156,Cardiology,20/02/2025 16:00,26/02/2025 16:00,Scheduled,Improved
+137,137,Pediatrics,15/02/2025 22:00,16/02/2025 22:00,Scheduled,Improved
+138,1,General Medicine,29/01/2025 16:00,31/01/2025 16:00,Emergency,Improved
+139,84,Cardiology,30/01/2025 20:00,31/01/2025 20:00,Emergency,Transferred
+140,185,Oncology,18/02/2025 10:00,20/02/2025 10:00,Scheduled,Improved
+141,155,General Medicine,01/01/2025 7:00,07/01/2025 7:00,Scheduled,Improved
+142,154,Orthopedics,13/02/2025 23:00,16/02/2025 23:00,Emergency,Deceased
+143,25,Emergency,13/01/2025 18:00,20/01/2025 18:00,Scheduled,Deceased
+144,51,Orthopedics,12/02/2025 19:00,18/02/2025 19:00,Scheduled,Recovered
+145,78,Cardiology,21/01/2025 12:00,31/01/2025 12:00,Scheduled,Recovered
+146,177,General Medicine,01/02/2025 2:00,05/02/2025 2:00,Emergency,Recovered
+147,27,Emergency,09/02/2025 2:00,10/02/2025 2:00,Emergency,Improved
+148,192,General Medicine,05/01/2025 4:00,10/01/2025 4:00,Emergency,Deceased
+149,78,Emergency,30/01/2025 01:00,08/02/2025 1:00,Scheduled,Transferred
+150,124,Cardiology,20/01/2025 23:00,24/01/2025 23:00,Scheduled,Deceased
+151,30,Oncology,20/01/2025 05:00,26/01/2025 05:00,Emergency,Improved
+152,164,Oncology,09/01/2025 9:00,14/01/2025 09:00,Emergency,Recovered
+153,4,Orthopedics,15/01/2025 08:00,22/01/2025 08:00,Emergency,Transferred
+154,68,Pediatrics,23/01/2025 23:00,25/01/2025 23:00,Scheduled,Recovered
+155,111,Emergency,17/02/2025 03:00,18/02/2025 03:00,Emergency,Recovered
+156,58,Cardiology,11/02/2025 16:00,13/02/2025 16:00,Emergency,Deceased
+157,18,Emergency,12/02/2025 5:00,21/02/2025 05:00,Scheduled,Recovered
+158,50,General Medicine,02/03/2025 20:00,06/03/2025 20:00,Emergency,Deceased
+159,45,Orthopedics,07/02/2025 21:00,12/02/2025 21:00,Emergency,Deceased
+160,23,General Medicine,21/02/2025 13:00,03/03/2025 13:00,Scheduled,Transferred
+161,8,Oncology,16/02/2025 15:00,26/02/2025 15:00,Scheduled,Deceased
+162,67,Oncology,16/02/2025 16:00,18/02/2025 16:00,Scheduled,Transferred
+163,192,Orthopedics,22/02/2025 03:00,01/03/2025 3:00,Scheduled,Improved
+164,58,General Medicine,29/01/2025 12:00,06/02/2025 12:00,Emergency,Recovered
+165,25,General Medicine,15/02/2025 14:00,25/02/2025 14:00,Emergency,Recovered
+166,79,Orthopedics,12/01/2025 8:00,15/01/2025 08:00,Scheduled,Improved
+167,51,Oncology,06/01/2025 22:00,15/01/2025 22:00,Scheduled,Improved
+168,140,Oncology,26/02/2025 19:00,05/03/2025 19:00,Emergency,Transferred
+169,185,Emergency,30/01/2025 10:00,05/02/2025 10:00,Emergency,Transferred
+170,178,Cardiology,11/01/2025 14:00,14/01/2025 14:00,Emergency,Recovered
+171,157,Oncology,06/01/2025 9:00,12/01/2025 9:00,Scheduled,Improved
+172,153,Pediatrics,29/01/2025 17:00,01/02/2025 17:00,Scheduled,Recovered
+173,32,General Medicine,27/01/2025 11:00,31/01/2025 11:00,Emergency,Transferred
+174,169,Oncology,01/01/2025 13:00,03/01/2025 13:00,Emergency,Improved
+175,53,Cardiology,27/01/2025 13:00,05/02/2025 13:00,Scheduled,Improved
+176,10,Cardiology,19/01/2025 12:00,28/01/2025 12:00,Emergency,Deceased
+177,23,Pediatrics,28/02/2025 00:00,05/03/2025 0:00,Emergency,Improved
+178,185,Oncology,02/01/2025 20:00,11/01/2025 20:00,Scheduled,Recovered
+179,110,Pediatrics,01/01/2025 15:00,04/01/2025 15:00,Emergency,Deceased
+180,186,Orthopedics,29/01/2025 12:00,04/02/2025 12:00,Emergency,Transferred
+181,126,Pediatrics,27/02/2025 15:00,28/02/2025 15:00,Emergency,Deceased
+182,123,Cardiology,15/01/2025 08:00,21/01/2025 08:00,Scheduled,Improved
+183,182,General Medicine,10/02/2025 12:00,18/02/2025 12:00,Scheduled,Transferred
+184,100,Emergency,06/01/2025 6:00,10/01/2025 6:00,Emergency,Recovered
+185,84,Emergency,21/01/2025 22:00,23/01/2025 22:00,Scheduled,Recovered
+186,148,Emergency,10/01/2025 13:00,16/01/2025 13:00,Emergency,Deceased
+187,107,Pediatrics,22/02/2025 15:00,25/02/2025 15:00,Scheduled,Transferred
+188,143,Oncology,05/02/2025 20:00,11/02/2025 20:00,Scheduled,Deceased
+189,104,General Medicine,19/02/2025 23:00,20/02/2025 23:00,Scheduled,Improved
+190,113,Oncology,25/01/2025 00:00,28/01/2025 00:00,Scheduled,Recovered
+191,9,Oncology,26/02/2025 06:00,08/03/2025 6:00,Emergency,Recovered
+192,156,Pediatrics,26/02/2025 03:00,05/03/2025 3:00,Scheduled,Transferred
+193,27,Oncology,24/01/2025 10:00,30/01/2025 10:00,Emergency,Deceased
+194,26,Orthopedics,29/01/2025 01:00,03/02/2025 1:00,Scheduled,Deceased
+195,29,Orthopedics,29/01/2025 03:00,01/02/2025 3:00,Emergency,Transferred
+196,82,Orthopedics,11/02/2025 13:00,13/02/2025 13:00,Scheduled,Deceased
+197,152,Cardiology,02/01/2025 9:00,06/01/2025 9:00,Scheduled,Improved
+198,143,General Medicine,30/01/2025 03:00,09/02/2025 3:00,Scheduled,Transferred
+199,83,General Medicine,01/01/2025 12:00,02/01/2025 12:00,Emergency,Improved
+200,90,Orthopedics,20/02/2025 02:00,23/02/2025 02:00,Scheduled,Transferred
+201,93,General Medicine,23/01/2025 02:00,01/02/2025 2:00,Scheduled,Improved
+202,101,General Medicine,05/01/2025 7:00,10/01/2025 7:00,Emergency,Recovered
+203,177,Pediatrics,15/01/2025 18:00,20/01/2025 18:00,Scheduled,Recovered
+204,116,Orthopedics,14/02/2025 08:00,18/02/2025 08:00,Scheduled,Recovered
+205,5,General Medicine,31/01/2025 02:00,08/02/2025 2:00,Scheduled,Deceased
+206,61,Emergency,07/01/2025 4:00,12/01/2025 4:00,Scheduled,Transferred
+207,59,Emergency,10/02/2025 2:00,18/02/2025 02:00,Scheduled,Transferred
+208,118,Oncology,13/02/2025 12:00,23/02/2025 12:00,Scheduled,Deceased
+209,151,General Medicine,29/01/2025 08:00,04/02/2025 8:00,Scheduled,Deceased
+210,162,Orthopedics,16/01/2025 13:00,19/01/2025 13:00,Emergency,Improved
+211,174,Cardiology,23/01/2025 16:00,28/01/2025 16:00,Scheduled,Deceased
+212,150,Cardiology,03/02/2025 19:00,09/02/2025 19:00,Scheduled,Recovered
+213,86,General Medicine,08/01/2025 5:00,09/01/2025 5:00,Scheduled,Transferred
+214,106,Cardiology,30/01/2025 05:00,07/02/2025 5:00,Emergency,Transferred
+215,43,Orthopedics,01/03/2025 20:00,07/03/2025 20:00,Emergency,Deceased
+216,170,Pediatrics,27/01/2025 22:00,29/01/2025 22:00,Scheduled,Improved
+217,27,Emergency,09/02/2025 11:00,12/02/2025 11:00,Emergency,Improved
+218,35,Oncology,03/02/2025 12:00,13/02/2025 12:00,Emergency,Deceased
+219,157,Pediatrics,22/02/2025 15:00,01/03/2025 15:00,Emergency,Improved
+220,55,Pediatrics,20/02/2025 14:00,02/03/2025 14:00,Scheduled,Transferred
+221,24,Oncology,02/01/2025 23:00,09/01/2025 23:00,Scheduled,Transferred
+222,187,Orthopedics,13/02/2025 03:00,16/02/2025 03:00,Scheduled,Transferred
+223,68,Pediatrics,07/02/2025 4:00,14/02/2025 04:00,Emergency,Transferred
+224,21,Emergency,17/02/2025 00:00,25/02/2025 00:00,Emergency,Improved
+225,42,General Medicine,16/01/2025 00:00,24/01/2025 00:00,Scheduled,Improved
+226,132,General Medicine,03/01/2025 20:00,05/01/2025 20:00,Emergency,Recovered
+227,154,Pediatrics,13/02/2025 22:00,15/02/2025 22:00,Emergency,Transferred
+228,101,Emergency,16/01/2025 06:00,26/01/2025 06:00,Emergency,Transferred
+229,174,Oncology,04/02/2025 21:00,11/02/2025 21:00,Scheduled,Improved
+230,165,Orthopedics,24/01/2025 04:00,29/01/2025 04:00,Emergency,Improved
+231,107,Pediatrics,01/02/2025 12:00,09/02/2025 12:00,Scheduled,Deceased
+232,149,Orthopedics,10/01/2025 12:00,12/01/2025 12:00,Emergency,Improved
+233,188,Oncology,16/02/2025 15:00,22/02/2025 15:00,Scheduled,Deceased
+234,193,General Medicine,31/01/2025 13:00,02/02/2025 13:00,Emergency,Transferred
+235,196,Cardiology,08/02/2025 10:00,13/02/2025 10:00,Scheduled,Transferred
+236,27,Pediatrics,28/02/2025 09:00,05/03/2025 9:00,Scheduled,Improved
+237,64,Cardiology,11/01/2025 9:00,17/01/2025 09:00,Scheduled,Transferred
+238,45,Oncology,22/01/2025 06:00,27/01/2025 06:00,Scheduled,Improved
+239,20,General Medicine,28/01/2025 04:00,30/01/2025 04:00,Scheduled,Deceased
+240,184,General Medicine,20/01/2025 11:00,21/01/2025 11:00,Emergency,Improved
+241,127,Oncology,10/01/2025 5:00,15/01/2025 05:00,Emergency,Improved
+242,123,Emergency,23/02/2025 23:00,27/02/2025 23:00,Emergency,Recovered
+243,46,General Medicine,25/02/2025 12:00,28/02/2025 12:00,Scheduled,Deceased
+244,192,Emergency,07/02/2025 17:00,14/02/2025 17:00,Scheduled,Recovered
+245,23,Pediatrics,24/02/2025 02:00,01/03/2025 2:00,Scheduled,Recovered
+246,18,Cardiology,29/01/2025 16:00,31/01/2025 16:00,Emergency,Improved
+247,130,Cardiology,29/01/2025 08:00,02/02/2025 8:00,Scheduled,Transferred
+248,148,Cardiology,26/02/2025 01:00,01/03/2025 1:00,Scheduled,Improved
+249,32,General Medicine,14/02/2025 16:00,21/02/2025 16:00,Scheduled,Deceased
+250,155,Emergency,30/01/2025 01:00,04/02/2025 1:00,Emergency,Improved
+251,181,Cardiology,23/02/2025 17:00,27/02/2025 17:00,Scheduled,Deceased
+252,138,Cardiology,22/02/2025 23:00,27/02/2025 23:00,Emergency,Deceased
+253,141,Oncology,14/02/2025 06:00,15/02/2025 06:00,Scheduled,Deceased
+254,21,Orthopedics,29/01/2025 18:00,04/02/2025 18:00,Emergency,Recovered
+255,105,Emergency,09/01/2025 7:00,11/01/2025 7:00,Emergency,Deceased
+256,180,General Medicine,26/01/2025 06:00,04/02/2025 6:00,Scheduled,Transferred
+257,45,Emergency,04/02/2025 23:00,08/02/2025 23:00,Emergency,Transferred
+258,4,Orthopedics,06/02/2025 17:00,08/02/2025 17:00,Emergency,Deceased
+259,27,General Medicine,07/02/2025 9:00,11/02/2025 9:00,Scheduled,Recovered
+260,40,Orthopedics,05/02/2025 3:00,06/02/2025 3:00,Emergency,Improved
+261,169,Orthopedics,04/01/2025 23:00,12/01/2025 23:00,Scheduled,Transferred
+262,50,Oncology,14/02/2025 07:00,17/02/2025 07:00,Emergency,Transferred
+263,175,Pediatrics,29/01/2025 21:00,05/02/2025 21:00,Scheduled,Improved
+264,58,Emergency,24/02/2025 09:00,03/03/2025 9:00,Scheduled,Improved
+265,123,Cardiology,06/02/2025 20:00,12/02/2025 20:00,Scheduled,Deceased
+266,1,Orthopedics,13/02/2025 13:00,17/02/2025 13:00,Emergency,Deceased
+267,155,Oncology,23/02/2025 16:00,05/03/2025 16:00,Scheduled,Deceased
+268,46,Pediatrics,19/02/2025 00:00,23/02/2025 00:00,Emergency,Recovered
+269,101,General Medicine,19/01/2025 22:00,20/01/2025 22:00,Scheduled,Deceased
+270,182,Pediatrics,26/01/2025 23:00,05/02/2025 23:00,Emergency,Improved
+271,53,Orthopedics,16/02/2025 07:00,20/02/2025 07:00,Emergency,Recovered
+272,60,Pediatrics,22/02/2025 15:00,01/03/2025 15:00,Scheduled,Recovered
+273,88,Orthopedics,25/02/2025 21:00,05/03/2025 21:00,Emergency,Transferred
+274,42,General Medicine,07/01/2025 21:00,16/01/2025 21:00,Scheduled,Improved
+275,46,Oncology,05/02/2025 5:00,11/02/2025 5:00,Scheduled,Improved
+276,138,General Medicine,01/02/2025 4:00,02/02/2025 4:00,Emergency,Transferred
+277,199,Pediatrics,07/01/2025 5:00,09/01/2025 5:00,Emergency,Deceased
+278,160,General Medicine,28/02/2025 19:00,02/03/2025 19:00,Emergency,Deceased
+279,172,Emergency,13/01/2025 06:00,22/01/2025 06:00,Scheduled,Recovered
+280,116,Orthopedics,13/02/2025 19:00,19/02/2025 19:00,Scheduled,Transferred
+281,71,General Medicine,20/02/2025 12:00,28/02/2025 12:00,Scheduled,Transferred
+282,114,Cardiology,24/02/2025 03:00,25/02/2025 03:00,Emergency,Deceased
+283,136,General Medicine,06/02/2025 15:00,10/02/2025 15:00,Emergency,Recovered
+284,65,Orthopedics,28/02/2025 04:00,04/03/2025 4:00,Scheduled,Improved
+285,127,Cardiology,01/03/2025 10:00,06/03/2025 10:00,Scheduled,Recovered
+286,77,General Medicine,23/01/2025 19:00,27/01/2025 19:00,Emergency,Improved
+287,118,Cardiology,14/01/2025 00:00,16/01/2025 00:00,Emergency,Transferred
+288,195,Orthopedics,28/01/2025 11:00,01/02/2025 11:00,Emergency,Improved
+289,43,Orthopedics,07/02/2025 6:00,13/02/2025 06:00,Scheduled,Transferred
+290,89,Emergency,19/01/2025 10:00,29/01/2025 10:00,Scheduled,Improved
+291,196,Emergency,23/01/2025 04:00,30/01/2025 04:00,Scheduled,Recovered
+292,58,General Medicine,21/01/2025 21:00,22/01/2025 21:00,Emergency,Transferred
+293,79,Cardiology,30/01/2025 17:00,06/02/2025 17:00,Scheduled,Recovered
+294,27,Pediatrics,08/02/2025 9:00,11/02/2025 9:00,Emergency,Improved
+295,152,Cardiology,17/01/2025 23:00,25/01/2025 23:00,Emergency,Transferred
+296,117,Cardiology,25/01/2025 07:00,29/01/2025 07:00,Emergency,Improved
+297,41,Emergency,01/03/2025 7:00,11/03/2025 7:00,Scheduled,Transferred
+298,72,Orthopedics,04/02/2025 9:00,13/02/2025 09:00,Scheduled,Improved
+299,86,Pediatrics,02/02/2025 21:00,06/02/2025 21:00,Emergency,Transferred
+300,142,Pediatrics,05/01/2025 18:00,11/01/2025 18:00,Emergency,Improved

@@ -1,0 +1,61 @@
+Doctor ID,Department,Available Hours,Booked Hours
+1,Orthopedics,8,8
+2,Orthopedics,8,6
+3,General Medicine,8,8
+4,Cardiology,8,7
+5,Cardiology,8,6
+6,General Medicine,8,4
+7,Cardiology,8,6
+8,General Medicine,8,4
+9,Orthopedics,8,3
+10,Cardiology,8,4
+11,Pediatrics,8,3
+12,Orthopedics,8,3
+13,Emergency,8,8
+14,Oncology,8,4
+15,Cardiology,8,8
+16,Oncology,8,7
+17,Orthopedics,8,6
+18,Orthopedics,8,7
+19,General Medicine,8,7
+20,Orthopedics,8,8
+21,Pediatrics,8,3
+22,Orthopedics,8,3
+23,Cardiology,8,5
+24,Orthopedics,8,8
+25,General Medicine,8,5
+26,Emergency,8,4
+27,Cardiology,8,4
+28,General Medicine,8,4
+29,General Medicine,8,6
+30,Oncology,8,5
+31,Emergency,8,8
+32,Pediatrics,8,5
+33,Cardiology,8,8
+34,Cardiology,8,5
+35,Emergency,8,4
+36,Pediatrics,8,6
+37,Oncology,8,8
+38,Orthopedics,8,6
+39,General Medicine,8,7
+40,Emergency,8,8
+41,Cardiology,8,6
+42,Oncology,8,4
+43,Oncology,8,5
+44,Oncology,8,3
+45,Emergency,8,7
+46,Cardiology,8,5
+47,Orthopedics,8,5
+48,Cardiology,8,6
+49,Orthopedics,8,4
+50,Orthopedics,8,7
+51,General Medicine,8,8
+52,Orthopedics,8,8
+53,Cardiology,8,4
+54,Emergency,8,8
+55,Cardiology,8,6
+56,Orthopedics,8,6
+57,Oncology,8,8
+58,General Medicine,8,7
+59,Cardiology,8,3
+60,Emergency,8,5
