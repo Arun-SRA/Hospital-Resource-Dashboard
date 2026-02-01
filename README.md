@@ -21,5 +21,5 @@ Hospital Resource Utilization and Patient Outcomes Dashboard
 - Drill-down by department, age group, branch
 - alerts
 - Predictive capacity planning
-- Exportable reports (CSV / PDF)
+- Exportable reports (Excel / PDF)
 
